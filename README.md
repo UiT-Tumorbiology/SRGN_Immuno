@@ -1,6 +1,6 @@
 This repository contains the scripts used in:
 
-## Serglycin modulates inflammatory and metabolic reprograming in macrophages
+**Serglycin modulates inflammatory and metabolic reprograming in macrophages**
 
 **Shirin Porteymour, Saikat Das Sajib, Susannah von Hofsten, Atanaska I. Doncheva, Christina D. Bjørnvall, Beate Hegge, Mélina Gautier, Mirjana Grujic, Pratibha Kolan, Jake L. Lusis, Chella Krishnan Karthickeyan, Gunnar Pejler, Svein O. Kolset, Erik Knutsen, Frode A. Norheim**
 
